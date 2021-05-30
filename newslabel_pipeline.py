@@ -20,6 +20,7 @@ def title_plus_summary_add_label(df,string):
 
 # 政治
 ltn_politics = pd.read_excel(xls,"政治的archive")
+print(ltn_politics)
 et_politics = pd.read_excel(xls,"et 政治")
 nt_politics = pd.read_excel(xls,"nt政治")
 politics = ltn_politics.append([et_politics[20:],nt_politics[20:]])
