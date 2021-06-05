@@ -5,7 +5,7 @@
 Supported functionalities:
 * correctly decode content into either html text or plain text (latter chosen if both exist)
 * print subject, from, index number, content to screen
-* pinpoint subject and from decoding failure by "慘了 subject跑不出來" and "慘了 from跑不出來" (see below 7 out of 2838)
+* pinpoint subject and from decoding failure by "慘了 subject跑不出來" and "慘了 from跑不出來" (see following 7 out of 2838: index 236/838/1389/2114/2115/2116/2230)
 * control starting point of email crawler by slicing the list inbox_item_list
 * support utf-8, Big5, and GBK encoding  
 
